@@ -10,6 +10,11 @@ user_input = input("Hey user, enter the number of days and I will convert it to 
 user_input_number = int(user_input)
 print(days_to_units(user_input_number))
 
+<<<<<<< HEAD
 
 ## This is from branch name rebase
 ## This is the second commit from rebase
+=======
+## This is change from master
+## This is the second change from master
+>>>>>>> 42028b072e8eb3c738103352d4ff11e0ca4d1059
